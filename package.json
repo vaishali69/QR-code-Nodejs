@@ -1,0 +1,24 @@
+{
+  "name": "qr-code-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaishali69/QR-code-Nodejs.git"
+  },
+  "author": "VAISHALI M",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vaishali69/QR-code-Nodejs/issues"
+  },
+  "homepage": "https://github.com/vaishali69/QR-code-Nodejs#readme",
+  "type": "module",
+  "dependencies": {
+    "inquirer": "^9.2.6",
+    "qr-image": "^3.2.0"
+  }
+}
